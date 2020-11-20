@@ -12,5 +12,3 @@ Thursday
 Friday
 Saturday
 Sunday
-
-test
